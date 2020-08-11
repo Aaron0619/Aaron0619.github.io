@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+Future Imperfect by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-You can use the [editor on GitHub](https://github.com/Aaron0619/aaron0619.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It's been a long time coming, but I've finally gotten around to creating a brand new
+blog-style template (and the first since Striped, which came out waaaaay back in 2013).
+Anyway, Future Imperfect features a clean, expansive layout, a toggleable search box,
+and -- because pretty much all modern browsers can use it now -- a whole lot of flexbox
+action. Enjoy it :)
 
-### Markdown
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(* = not included)
 
-```markdown
-Syntax highlighted code block
+AJ
+aj@lkn.io | @ajlkn
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Credits:
 
-1. Numbered
-2. List
+    Demo Images:
+        Unsplash (unsplash.com)
 
-**Bold** and _Italic_ and `Code` text
+    Icons:
+        Font Awesome (fontawesome.io)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aaron0619/aaron0619.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    Other:
+        jQuery (jquery.com)
+        Responsive Tools (github.com/ajlkn/responsive-tools)
